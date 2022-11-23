@@ -1,0 +1,33 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'run', 'dev' ]
+2 info using npm@6.14.15
+3 info using node@v14.18.0
+4 verbose run-script [ 'predev', 'dev', 'postdev' ]
+5 info lifecycle @~predev: @
+6 info lifecycle @~dev: @
+7 verbose lifecycle @~dev: unsafe-perm in lifecycle true
+8 verbose lifecycle @~dev: PATH: /usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/Users/enmanuelmartins/Desktop/MyPortafolio/example-app/node_modules/.bin:/Users/enmanuelmartins/opt/anaconda3/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin:/Users/enmanuelmartins/opt/anaconda3/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin
+9 verbose lifecycle @~dev: CWD: /Users/enmanuelmartins/Desktop/MyPortafolio/example-app
+10 silly lifecycle @~dev: Args: [ '-c', 'vite' ]
+11 info lifecycle @~dev: Failed to exec dev script
+12 verbose stack Error: @ dev: `vite`
+12 verbose stack spawn ENOENT
+12 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/lib/spawn.js:48:18)
+12 verbose stack     at ChildProcess.emit (events.js:400:28)
+12 verbose stack     at maybeClose (internal/child_process.js:1058:16)
+12 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:293:5)
+13 verbose pkgid @
+14 verbose cwd /Users/enmanuelmartins/Desktop/MyPortafolio/example-app
+15 verbose Darwin 22.1.0
+16 verbose argv "/usr/local/bin/node" "/usr/local/bin/npm" "run" "dev"
+17 verbose node v14.18.0
+18 verbose npm  v6.14.15
+19 error code ELIFECYCLE
+20 error syscall spawn
+21 error file sh
+22 error errno ENOENT
+23 error @ dev: `vite`
+23 error spawn ENOENT
+24 error Failed at the @ dev script.
+24 error This is probably not a problem with npm. There is likely additional logging output above.
+25 verbose exit [ 1, true ]

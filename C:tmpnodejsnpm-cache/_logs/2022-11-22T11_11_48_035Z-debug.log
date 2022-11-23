@@ -1,0 +1,15 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'run', 'dev' ]
+2 info using npm@6.14.15
+3 info using node@v14.18.0
+4 verbose run-script [ 'predev', 'dev', 'postdev' ]
+5 info lifecycle @~predev: @
+6 info lifecycle @~dev: @
+7 verbose lifecycle @~dev: unsafe-perm in lifecycle true
+8 verbose lifecycle @~dev: PATH: /usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/Users/enmanuelmartins/Desktop/MyPortafolio/example-app/node_modules/.bin:/Users/enmanuelmartins/opt/anaconda3/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin:/Users/enmanuelmartins/opt/anaconda3/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin
+9 verbose lifecycle @~dev: CWD: /Users/enmanuelmartins/Desktop/MyPortafolio/example-app
+10 silly lifecycle @~dev: Args: [ '-c', 'vite' ]
+11 timing npm Completed in 6034364ms
+12 error cb() never called!
+13 error This is an error with npm itself. Please report this error at:
+14 error <https://npm.community>
