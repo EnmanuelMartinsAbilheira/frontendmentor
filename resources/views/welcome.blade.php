@@ -33,7 +33,7 @@
                 
   
                 <div class="">
-                    <a class="w3-button w3-hide-medium w3-hide-large w3-right"  onclick="myFunction()" > <i class="fa fa-terminal fa-2x"></i> <i class="fa fa-laptop fa-2x"></i> <i class="fa fa-user-secret fa-2x"></i> </a>
+                    <a class="w3-button w3-hide-medium w3-hide-large w3-right"  onclick="myFunction()" > <i class="fa fa-terminal fa-2x"></i> </a>
                     <a href="#Home" class="w3-bar-item w3-button  w3-hide-small">Home</a>
                     <a href="#New" class="w3-bar-item w3-button  w3-hide-small">New</a>
                     <a href="#Popular" class="w3-bar-item w3-button  w3-hide-small">Popular</a>
