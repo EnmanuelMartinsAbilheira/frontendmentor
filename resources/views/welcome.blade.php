@@ -65,7 +65,7 @@
         <!--Header adactativo-->
         <section class="md:flex md:flex-row  md:justify-center">
             
-            <div class="md:flex md:flex-col md:w-[60%] m-4">
+            <div class="md:flex md:flex-col md:w-[60%]">
 
                 <img class="w-full" src="https://tenerifejovenyeduca.com/wp-content/uploads/2022/09/slider-proyecto-proyecta-mates01.webp" >
                 
