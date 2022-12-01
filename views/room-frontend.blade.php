@@ -62,9 +62,9 @@
                     <img class="w-full" src="https://shoppinggarden.com.br/uploads/usuario/2019/03/17/bonsai-sg-1.jpg" >
                   </div>
 
-                  <div class=" flex flex-col justify-center items-center w-full h-auto bg-white">
-                    <h1 class="text-4xl mx-20">Discover innovative ways to decorate</h1> 
-                    <p class="m-20">
+                  <div class="mx-12 flex flex-col justify-center items-center w-full h-auto bg-white gap-16">
+                    <h1 class="text-4xl ">Discover innovative ways to decorate</h1> 
+                    <p class="">
                     We provide unmatched quality, comfort, and style for property owners across the country. 
                     Our experts combine form and function in bringing your vision to life. Create a room in your 
                     own style with our collection and make your property a reflection of you and what you love.
@@ -82,8 +82,7 @@
         
         <div class="">
             
-          <div class="grid grid-cols-1 lg:grid-cols-3 h-100% w-100%"> 
-                            
+          <div class="grid grid-cols-1 lg:grid-cols-3 ">
             <div class="h-[30%] w-auto">
               <div class="flex">
                   <img class="h-full w-full" src="https://thedesignhome.com/wp-content/uploads/2020/10/rb_fd6tshbm-1198x800.jpg">
@@ -91,7 +90,7 @@
 
             </div>
 
-            <div class=" mx-12 flex h-full min-h-[25rem] sm:min-h-0">
+            <div class="flex flex-col justify-center mx-12 flex min-h-[25rem] sm:min-h-12>
               <div class="flex flex-col justify-center gap-4 ">
                   <h2 class="font-extralight text-2xl ">About our furniture</h2>
                   <h3 class="font-hard text-sm">Our multifunctional collection blends design and function to suit your individual taste.Make each room unique, or pick a cohesive theme that best express your interests and whatinspires you. Find the furniture pieces you need, from traditional to contemporary stylesor anything in between. Product specialists are available to help you create your dream space.</h3>
@@ -99,9 +98,9 @@
                 </div>
             </div>
             
-            <div class="h-full w-[114%]">
+            <div class="h-full w-full">
               <div class="flex">
-                <img class="h-full w-[113%]" src="https://blog.adgager.com/wp-content/uploads/2021/06/ellen-qin-bxLhqZIp2LI-unsplash-1080x635.jpg">
+                <img class="h-full w-full" src="https://blog.adgager.com/wp-content/uploads/2021/06/ellen-qin-bxLhqZIp2LI-unsplash-1080x635.jpg">
               </div>
             </div>
 
