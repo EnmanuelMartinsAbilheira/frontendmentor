@@ -1,0 +1,18 @@
+<section class="relative w-full pb-48 overflow-hidden bg-yellow-200 tails-selected-element" contenteditable="true">
+  <img src="https://cdn.devdojo.com/tails/scribbles/24.svg" class="absolute bottom-0 right-0 hidden w-64 mb-2 -mr-12 lg:block">
+  <img src="https://cdn.devdojo.com/tails/scribbles/50.svg" class="absolute bottom-0 left-0 hidden mb-2 transform lg:block w-96 -ml-9">
+
+  <div class="flex flex-col items-center justify-center px-10 py-40 mx-auto max-w-7xl">
+      <img src="https://cdn.devdojo.com/tails/scribbles-02/9.svg" class="absolute left-0 hidden top-1/2">
+      <h1 class="relative inline-block w-full font-serif text-4xl font-black text-black sm:text-6xl sm:text-center">Create Your Story</h1>
+      <p class="relative w-full pt-6 text-lg pb-7 sm:text-2xl sm:text-center">Designs that help you tell you story.</p>
+      <a href="#_" class="relative w-full px-8 py-4 text-lg font-medium text-center text-white bg-black rounded-lg focus:outline-none focus:ring-2 sm:w-auto focus:ring-offset-2 focus:ring-gray-900 focus:ring-offset-yellow-300 group">
+          <img src="https://cdn.devdojo.com/tails/scribbles-02/23.svg" class="absolute top-0 right-0 hidden -mt-3 -mr-32 md:block">
+          <span>Buy Now - $4</span>
+          <span class="absolute inset-0 w-full h-full mt-2 ml-2 transition-all duration-200 ease-in-out bg-gray-900 rounded-lg opacity-10 group-hover:mt-0 group-hover:ml-0"></span>
+          <img src="https://cdn.devdojo.com/tails/scribbles-02/64.svg" class="absolute top-0 hidden -mt-2 -ml-32 transform -translate-x-32 md:block left-1/2 rotate-12">
+      </a>
+  </div>
+
+  <svg class="absolute bottom-0 w-full -mt-10 text-white fill-current" viewBox="0 0 960 93" xmlns="http://www.w3.org/2000/svg"><path d="m0 0 5.2 11.2C10.3 22.3 20.7 44.7 31 43.5c10.3-1.2 20.7-25.8 31-20.7C72.3 28 82.7 63 93 78.5s20.7 11.5 31 5.3c10.3-6.1 20.7-14.5 31-25.5s20.7-24.6 31-21.3c10.3 3.3 20.7 23.7 31 21.2s20.7-27.9 31-36.2c10.3-8.3 20.7.3 31 15.7C289.3 53 299.7 75 310 75s20.7-22 31-39.2c10.3-17.1 20.7-29.5 31-18.8s20.7 44.3 31 55.5c10.3 11.2 20.7-.2 31-.8 10.3-.7 20.7 9.3 30.8 6 10.2-3.4 20.2-20 30.4-28.7 10.1-8.7 20.5-9.3 30.8-10.8s20.7-3.9 31 .8 20.7 16.3 31 26.3 20.7 18.4 31 7.4c10.3-11 20.7-41.4 31-44 10.3-2.7 20.7 22.3 31 26.5 10.3 4.1 20.7-12.5 31-20.9 10.3-8.3 20.7-8.3 31-1.3 10.3 7 20.7 21 31 31.5S794.7 82 805 72s20.7-37 31-35.3c10.3 1.6 20.7 32 31 35.3 10.3 3.3 20.7-20.3 31-22 10.3-1.7 20.7 18.7 31 14.2s20.7-33.9 25.8-48.5L960 1v92H0V0Z" fill="#FFF" fill-rule="nonzero"></path></svg>
+</section>
