@@ -108,7 +108,7 @@
 
 		<section class="relative bg-black mt-[70rem] sm:mt-[40rem] md:mt-[35rem] lg:mt-[10rem] h-72 mb-12 mx-12 md:mx-28 flex justify-start items-center">
 			
-			<div class="flex flex-col md:flex-row container justify-around gap-4">
+			<div class="flex flex-col md:flex-row container justify-around gap-4 px-8">
 				
 				<div class="flex justify-center items-center">
 			    <h2 class="text-white text-3xl md:text-4xl lg:text-6xl ">Vamos falar sobre <br>o seu projeto?</h2>
@@ -131,12 +131,12 @@
 
 					<div class="flex flex-col justify-center items-center p-12 h-auto w-full bg-slate-50">
 						<img src="https://s3-alpha-sig.figma.com/img/78d9/5ebf/cd7a63738157b3efd7db25fa60005566?Expires=1672012800&Signature=M0lIYCrr8jwPKLImIpyT6NVNmJDIk6Pet~GXGMKgFD-Zj3lNce~4HtvvkjX~q51iK6nrvqPw8oDZY69iNYPYyknpty-tBvt8SeP4LdjJwNGI6ymbLbIHFVZbnSrdJ7ZK5o-Xun8GpwpzH8GHj~aEWg4cOaxc6Wx3x2vTdI94MUotSSXhK4B9o1M8biqitWoPkDT0xNdfvqK61qHsqB3zxuYI82c11Me~Z23v6EJR139OCbrW-WedAzJUwaQaAPS9hjA8n9RObxaZz~1ETtuu4bF1ZOXxH9dmfen4T9wGfdpY4zxgs8yyhDqwWAq3MEJ6u-~VCH~ZgTBOSzdvmzO1Kw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA" alt="">
-						<h2>e-commerce</h2>
+						<h2 class=" text-2xl  text-slate-400">e-commerce</h2>
 					</div>
 
 					<div class="flex flex-col justify-center items-center p-12 h-auto w-full bg-slate-50">
 						<img src="https://bold-ideas.pt/app/webp-express/webp-images/uploads/2022/10/Frame-12-1.jpg.webp" alt="">
-						<h2>social media</h2>
+						<h2 class=" text-2xl  text-slate-400">social media</h2>
 					</div>
 				</div>
 			</div>
