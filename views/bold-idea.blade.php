@@ -27,7 +27,7 @@
                   <a href="#_" class="w-40 px-5 py-2 text-lg font-normal text-center text-gray-800 bg-gray-100 rounded-lg md:w-auto">Saber Mais</a>
               </div>
               <div class="z-50 max-w-none absolute md:relative flex items-center justify-center md:w-1/2 md:pt-0 ">
-                <img class="relative max-w-none mt-40 sm:mt-12 ml-0 sm:ml-80 md:mt-0 md:ml-0 md:-mt-4 w-[80rem] md:w-[120rem] " src="https://s3-alpha-sig.figma.com/img/0ccb/f719/a5cfb601b2069d491e2ff187f7abfb08?Expires=1671408000&Signature=UKNf8ZeOBpa0M5LKzfLxIkLdxd8AftmG5BnGsARjveeNWVhyzOVD3X7GjnQWxyqBUG5yS55EDcblvXv89q4h5v91l9vbts7~Pcs1iaMrn3lqG0w~1zUncYh~0rmaKGPmQsxg9CCGme2U-adFioaE01VsvlznUdz2k~yO6b0wMhbfvJUbxhN5TjhuuJumx1219qPW5Dc09xSgFt8oK8ifrlr717q-xQRKHq5gZ8zOC4IgNBnWzoWm0jTzx-jh1fJgqkiLB8h-E2-58UzJM~qjErZgEfQv6cMgwFH~n4o6rwQyFvYrQ-37Gsx~v3c0G3d6YmSTLf1HlZvXu~7MKEmwJg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA">
+                <img class="relative max-w-none mt-40 sm:mt-12 ml-0 sm:ml-80 md:mt-0 md:ml-28 md:-mt-4 w-[80rem] md:w-[120rem] " src="https://s3-alpha-sig.figma.com/img/0ccb/f719/a5cfb601b2069d491e2ff187f7abfb08?Expires=1671408000&Signature=UKNf8ZeOBpa0M5LKzfLxIkLdxd8AftmG5BnGsARjveeNWVhyzOVD3X7GjnQWxyqBUG5yS55EDcblvXv89q4h5v91l9vbts7~Pcs1iaMrn3lqG0w~1zUncYh~0rmaKGPmQsxg9CCGme2U-adFioaE01VsvlznUdz2k~yO6b0wMhbfvJUbxhN5TjhuuJumx1219qPW5Dc09xSgFt8oK8ifrlr717q-xQRKHq5gZ8zOC4IgNBnWzoWm0jTzx-jh1fJgqkiLB8h-E2-58UzJM~qjErZgEfQv6cMgwFH~n4o6rwQyFvYrQ-37Gsx~v3c0G3d6YmSTLf1HlZvXu~7MKEmwJg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA">
               </div>
           </div>
       </div>
@@ -35,7 +35,7 @@
     </section>
     
     
-    <section class=" pt-80 sm:pt-40 mx-12 md:mx-28 -mt-4 md:-mt-56 relative bg-yellow-300 h-full md:h-4/5 w-auto  ">
+    <section class=" pt-80 sm:pt-40 mx-12 md:mx-28 -mt-4 md:-mt-56 relative bg-yellow-300 h-[150%] md:h-4/5 w-auto">
 		  <div class="px-20 grid grid-cols-1 md:grid-cols-2 ">
 				
 				<div class="">
@@ -48,7 +48,7 @@
 				</div>
   
 			</div>
-      <h3 class="flex ml-16 mt-8 md:mt-0 text-6xl md:text-7xl lg:text-9xl text-gray-100 opacity-40">fazemos</h3>
+      <h3 class="flex -mb-5 ml-16 mt-8 md:mt-0 text-6xl md:text-7xl lg:text-9xl text-gray-100 opacity-40">fazemos</h3>
 
 			<div class="mx-12 ">
 				
@@ -106,7 +106,7 @@
     </section>
 
 
-		<section class="relative bg-black mt-[70rem] sm:mt-[40rem] md:mt-[35rem] lg:mt-[10rem] h-72 mb-12 mx-12 md:mx-28 flex justify-start items-center">
+		<section class="relative bg-black mt-[50rem] sm:mt-[20rem] md:mt-[35rem] lg:mt-[10rem] h-72 mb-12 mx-12 md:mx-28 flex justify-start items-center">
 			
 			<div class="flex flex-col md:flex-row container justify-around gap-4 px-8">
 				
