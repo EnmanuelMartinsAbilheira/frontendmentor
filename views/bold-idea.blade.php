@@ -126,7 +126,7 @@
           </div>
   
           <div class="flex flex-col md:flex-row justify-center items-center gap-4">
-            <button class="bg-yellow-300 rounded-lg py-4 px-8 ">Começar</button>
+            <button class="bg-[#E0CD67]  rounded-lg py-4 px-8 ">Começar</button>
             <button class="bg-white py-4 rounded-lg px-6 ">Saber Mais </button>
           </div>
         </div>
@@ -156,13 +156,13 @@
 		</section>
 
 
-		<section class="container m-auto px-6 sm:px-24 lg:px-28">
+		<section class="container m-auto px-6 sm:px-24 lg:px-28 pb-4 sm:pb-6 md:pb-12 ">
 		  <div class="grid grid-cols-1 md:grid-cols-2">
 
         <div class="flex flex-col justify-center items-start gap-6">
           <h2 class="text-5xl">Vamos trabalhar juntos?</h2>
           <h3 class="text-slate-600">Diariamente ajudamos a impulsar vários negócios. A nossa principal prioridade é cumprir com os objetivos do nossos clientes.</h3>
-          <button class="bg-yellow-300 p-4 rounded-xl font-mono">contacte-nos</button>
+          <button class="bg-[#E0CD67]  p-4 rounded-xl font-mono">contacte-nos</button>
         </div>	
         <img class="-mt-24 ml-16 md:-mt-0 md:ml-0" src="https://s3-alpha-sig.figma.com/img/fed3/a73d/4fe2893bf78d94b78a113556c92a6e41?Expires=1672012800&Signature=dMsY77Y-HtluuO-3iTYA7~SDafKdXAeAqKvVLAOZo3t76SqaEA6PoERmijQrqpORCOCOqDH99m0Zn9gKw77bOsqNgOafsRqpQeXmI7gKJ~awzwYOU6qUTN2hLkk2L6~52BZJBL1TK9I69UGjeF9SHAv3c~9N14kINjscfZfd2ss15SEuhMrbllltHbZQ4JuHl7KBQaEYbqmJux~Vy0ka53s9S2hucdjGGsw8jpmwBTm6CCyzDvJJkyCXzH9RLb5Ce1tX2D5qrfNhAjeeqx4TKEuvx-3fU7On-nb5cjRlcCllMrajZseXyKW8Lc3JNj8oYuq6TjLf0WZgd1mlHrhR7g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA">
       </div>
